@@ -9,7 +9,8 @@
 
 #pragma once
 
-#include <string> // included via ContainerHelper
+//#include <string> // included via ContainerHelper
+#include <algorithm>
 #include "bphash/types/ContainerHelper.hpp"
 
 namespace bphash {
